@@ -68,6 +68,12 @@
       <!-- Coluna esquerda: botão + lista de presentes -->
       <div class="presenca-col-left">
 
+        <!-- Estado de carregamento / erro -->
+        <div id="presencaEstado" class="estado loading" style="display:none;">
+          <i class="material-icons">autorenew</i>
+          <p>Identificando sessão…</p>
+        </div>
+
         <!-- Contagem e lista de presentes -->
         <div class="presenca-lista-wrap">
           <div class="presenca-lista-header">
@@ -102,12 +108,6 @@
         </div>
       </div>
 
-    </div>
-
-    <!-- Estado de carregamento / erro -->
-    <div id="presencaEstado" class="estado loading" style="display:none;">
-      <i class="material-icons">autorenew</i>
-      <p>Identificando sessão…</p>
     </div>
 
   </div><!-- /aba-presenca -->
