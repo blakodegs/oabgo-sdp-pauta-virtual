@@ -1,6 +1,6 @@
 {
   "name": "SDP-OAB/GO — Pauta Virtual",
-  "short_name": "SDP-OAB/GO",
+  "short_name": "Pauta Virtual",
   "description": "Sistema de Defesa das Prerrogativas — OAB/GO",
   "start_url": "/oabgo-sdp-pauta-virtual/?aba=presenca",
   "display": "standalone",
